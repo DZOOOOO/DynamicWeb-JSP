@@ -1,4 +1,4 @@
-package study.infowifi;
+package study.infowifi.wifi.servlet;
 
 import study.infowifi.db.DB;
 

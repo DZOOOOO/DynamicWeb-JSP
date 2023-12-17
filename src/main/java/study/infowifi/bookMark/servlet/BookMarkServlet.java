@@ -1,4 +1,4 @@
-package study.infowifi;
+package study.infowifi.bookMark.servlet;
 
 import study.infowifi.bookMark.BookMark;
 import study.infowifi.db.DB;
